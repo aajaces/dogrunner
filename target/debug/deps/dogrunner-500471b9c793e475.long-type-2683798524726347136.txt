@@ -1,0 +1,1 @@
+&mut system::query::Query<'_, '_, (&mut components::transform::Transform, &bevy_asset::handle::Handle<bevy_sprite::texture_atlas::TextureAtlas>)>

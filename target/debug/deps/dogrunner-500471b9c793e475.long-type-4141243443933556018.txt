@@ -1,0 +1,1 @@
+for<'a, 'b, 'c, 'd, 'e, 'f> fn(bevy::prelude::Res<'a, bevy::prelude::Time>, bevy::prelude::Query<'b, 'c, (&'d AnimationIndices, &'e mut AnimationTimer, &'f mut {type error}), {type error}>) {animate_sprite}

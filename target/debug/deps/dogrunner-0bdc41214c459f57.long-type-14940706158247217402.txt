@@ -1,0 +1,1 @@
+for<'a, 'b, 'c, 'd, 'e, 'f, 'g, 'h> fn(bevy::prelude::Query<'a, 'b, (&'c mut bevy::prelude::Transform, &'d bevy::prelude::Handle<bevy::prelude::TextureAtlas>)>, bevy::prelude::Query<'e, 'f, &'g mut bevy::prelude::Window>, bevy::prelude::Res<'h, bevy::prelude::Assets<bevy::prelude::TextureAtlasLayout>>) {update_ground_position}

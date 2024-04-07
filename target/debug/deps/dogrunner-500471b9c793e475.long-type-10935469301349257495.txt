@@ -1,0 +1,1 @@
+for<'a, 'b, 'c, 'd, 'e> fn(bevy::prelude::Res<'a, {type error}>, bevy::prelude::Local<'b, InputState>, bevy::prelude::Query<'c, 'd, &'e mut bevy::prelude::Transform, bevy::prelude::With<Player>>) {handle_input}
